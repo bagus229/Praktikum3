@@ -38,8 +38,6 @@ Setelah muncul tulisan "install" di klik:
 Tunggu beberapa saat, setelah ter-install klik "finish" seperti digambar:
 ![Gambar 1](screenshot/ssl13.png)
 
-
-
 ## Kode Program Flowchart Menggunakan Python
 
 ### Langkah 1
