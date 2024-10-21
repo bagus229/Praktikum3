@@ -39,8 +39,6 @@ Tunggu beberapa saat, setelah ter-install klik "finish" seperti digambar:
 ![Gambar 1](screenshot/ssl13.png)
 
 
-### Menjalankan/Pengoperasian Git Tools
-
 
 ## Kode Program Flowchart Menggunakan Python
 
@@ -69,3 +67,46 @@ Jika B tidak lebih besar dari C (artinya C >= B), maka C adalah bilangan terbesa
 ### Langkah 5
 Setelah kita membuat kode program jangan lupa di run dan memberi nilai pada bilangan A,B. dan C. bilangan A = 1, bilangan B = 2, Bilangan C  = 3:
 ![Gambar 1](screenshot/ssl20.png)
+
+
+## Membuat Flowchart Tentang Menentukan Bilangan Terbesar dari 3 bilangan
+
+### Langkah 1
+Memulai START dengan bentuk terminator:
+![Gambar 1](screenshot/ssl21.png)
+
+### langkah 2
+Input tiga bilangan yakni A, B. dan C:
+![Gambar 1](screenshot/ssl23.png)
+
+### Langkah 3
+Bandingkan bilangan A dan B:
+Jika A>B Ya, maka lanjut ke langkah berikutnya untuk membandingkan A dengan C. jika A < B Tidak, maka lanjut ke perbandingan B dan C.
+![Gambar 1](screenshot/ssl24.png)
+
+### Langkah 4
+Jika A>B:
+Bandingkan bilangan A dan C:
+
+Jika A>C, maka A adalah bilangan terbesar, dan dilanjutkan dengan perbandingan antara B dan C untuk menentukan urutan kedua dan ketiga.
+
+Jika A < C , maka C adalah bilangan terbesar, dilanjutkan dengan perbandingan antara A dan B untuk menentukan urutan kedua dan ketiga.
+![Gambar 1](screenshot/ssl25.png)
+
+### Langkah 5
+Jika :A < B
+
+Bandingkan bilangan B dan C:
+
+Jika B>C , maka B adalah bilangan terbesar, dan dilanjutkan dengan perbandingan antara A dan C untuk menentukan urutan kedua dan ketiga.
+
+Jika B < C , maka C adalah bilangan terbesar, dan B adalah bilangan kedua terbesar, sementara A adalah yang terkecil.
+![Gambar 1](screenshot/ssl26.png)
+
+### Langkah 6
+Setelah perbandingan selesai. hasil akhirnya adalah bilangan berdasarkan langkah-langkah diatas:
+![Gambar 1](screenshot/ssl27.png)
+
+### langkah 7
+selesai diakhiri dengan terminator finish
+![Gambar 1](screenshot/ssl28.png)
